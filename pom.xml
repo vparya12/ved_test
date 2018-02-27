@@ -59,6 +59,6 @@
 </dependency>
   </dependencies>
   <build>
-    <finalName>vparya12</finalName>
+    <finalName>ROOT</finalName>
   </build>
 </project>
